@@ -118,15 +118,6 @@ plt.legend()
 plt.grid(True)
 plt.show()
 
-# Optimal Threshold Selection
-optimal_idx = np.argmax(tpr - fpr)
-optimal_threshold = thresholds[optimal_idx]
-print(f"Optimal Threshold: {optimal_threshold:.2f}")
-
-# Adjust predictions using optimal threshold
-y_pred_adjusted = (y_pred_proba >= optimal_threshold).astype(int)
-print("\nClassification Report (Adjusted Threshold):\n")
-print(classification_report(y_test, y_pred_adjusted))
 # Visualize Feature Importance
 plt.figure(figsize=(10, 6))
 sns.barplot(
