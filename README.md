@@ -1,5 +1,5 @@
 Dataset Link - https://www.kaggle.com/datasets/hm-land-registry/uk-housing-prices-paid
 
-**Überblick**
-
-Durchführung explorativer Datenanalysen (EDA) zur Identifikation von Markttrends und Immobilienentwicklungen. Entwicklung prädiktiver Modelle mit linearer Regression und SARIMA zur Prognose von Immobilienpreisen und Nachfrage zur Optimierung von Investitionsstrategien
+**UK Real Estate Market Analysis and Forecasting
+**
+Performed exploratory data analysis (EDA) to identify market trends and real estate developments in the UK. Developed predictive models using linear regression and SARIMA to forecast property prices and demand, enabling optimized investment strategies.
