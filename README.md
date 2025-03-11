@@ -7,3 +7,6 @@ Performed exploratory data analysis (EDA) to identify market trends and real est
 
 Programming Language: Python
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels
+
+Result:
+Results and recommendations are in 'Real_Estate_Analysis_Report.pdf' above.
